@@ -22,13 +22,21 @@
 
 ### 数据字段
 
-| 字段 | 类型 | 说明 |
-|---|---|---|
-| Customer ID | Text | 客户编号 |
-| Age | Integer | 客户年龄 |
-| Contract Type | Text | 合同类型 |
-| Monthly Charge | Decimal | 月费 |
-| Churn | Boolean | 是否流失 |
+| 字段 | 说明 |
+|---|---|
+| Customer ID | 客户编号 |
+| Age | 客户年龄 |
+| Account Length (in months) | 账户时长(按月) |
+| Region | 客户地区 |
+| Contract Type | 合同类型 |
+| Account Length | 账户时长 |
+| Monthly Charge | 月费 |
+| Local Mins | 本地通话时长 |
+| Intl Mins | 国际通话时长 |
+| Extra Data Charges | 额外数据费用 |
+| Customer Service Calls | 客服联系次数 |
+| Churn | 是否流失 |
+| Churn Reason | 流失原因 |
 
 ## 4. 数据处理
 

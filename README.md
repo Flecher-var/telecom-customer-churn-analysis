@@ -84,18 +84,19 @@
 
 ## 6. Dashboard
 
-### 流失概览
+### 6.1 流失地区分布与原因
 
-![流失概览](images/dashboard_overview.JPG)
-
-
-### 数据使用分析
-
-![数据使用分析](images/Data%20usage%20analysis.JPG)
+![流失地区分布与原因](images/churn_region_reason.JPG)
 
 
-### 客户服务分析
-![客户服务分析](images/Account%20and%20Customer%20Service.JPG)
+### 6.2 流量与通话时长
+
+![流量与通话时长](images/usage_and_call_duration.JPG)
+
+
+### 6.3 账户时长与客服服务
+
+![账户时长与客服服务](images/account_length_customer_service.JPG)
 
 
 ## 7. 关键发现

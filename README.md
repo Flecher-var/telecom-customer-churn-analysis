@@ -85,7 +85,7 @@
 ## 6. Dashboard
 
 ### 流失概览
-
+![流失概览](images/dashboard_overview.JPG)
 
 
 ### 使用行为分析

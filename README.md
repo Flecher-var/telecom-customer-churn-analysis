@@ -89,11 +89,11 @@
 
 
 ### 使用行为分析
-
+![使用行为分析](images/Data usage analysis.JPG)
 
 
 ### 客户服务分析
-
+![客户服务分析](images/Account and Customer Service.JPG)
 
 
 ## 7. 关键发现

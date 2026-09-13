@@ -27,7 +27,7 @@
 | Customer ID | 客户编号 |
 | Age | 客户年龄 |
 | Account Length (in months) | 账户时长(按月) |
-| Region | 客户地区 |
+| State | 客户地区 |
 | Contract Type | 合同类型 |
 | Account Length | 账户时长 |
 | Monthly Charge | 月费 |
@@ -35,7 +35,7 @@
 | Intl Mins | 国际通话时长 |
 | Extra Data Charges | 额外数据费用 |
 | Customer Service Calls | 客服联系次数 |
-| Churn | 是否流失 |
+| Churn Label | 是否流失 |
 | Churn Reason | 流失原因 |
 
 ## 4. 数据处理

@@ -25,6 +25,7 @@
 | 字段 | 说明 |
 |---|---|
 | Customer ID | 客户编号 |
+| Churn Label | 是否流失 |
 | Age | 客户年龄 |
 | Account Length (in months) | 账户时长(按月) |
 | State | 客户地区 |
@@ -33,9 +34,15 @@
 | Monthly Charge | 月费 |
 | Local Mins | 本地通话时长 |
 | Intl Mins | 国际通话时长 |
+| Intl Plan | * |
+| Avg Monthly GB Download | * |
+| Unlimited Data Plan | * |
 | Extra Data Charges | 额外数据费用 |
+| Payment Method | * |
+| Monthly Charge | * |
+| 分组消耗 | * |
+| 国际最低类别 | * |
 | Customer Service Calls | 客服联系次数 |
-| Churn Label | 是否流失 |
 | Churn Reason | 流失原因 |
 
 ## 4. 数据处理

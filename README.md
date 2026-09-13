@@ -85,15 +85,17 @@
 ## 6. Dashboard
 
 ### 流失概览
+
 ![流失概览](images/dashboard_overview.JPG)
 
 
-### 使用行为分析
-![使用行为分析](images/Data usage analysis.JPG)
+### 数据使用分析
+
+![数据使用分析](images/Data%20usage%20analysis.JPG)
 
 
 ### 客户服务分析
-![客户服务分析](images/Account and Customer Service.JPG)
+![客户服务分析](images/Account%20and%20Customer%20Service.JPG)
 
 
 ## 7. 关键发现

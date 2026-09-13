@@ -22,28 +22,32 @@
 
 ### 数据字段
 
+原始数据字段
 | 字段 | 说明 |
 |---|---|
 | Customer ID | 客户编号 |
-| Churn Label | 是否流失 |
+| Churn Label | 客户是否流失（Yes/No） |
 | Age | 客户年龄 |
-| Account Length (in months) | 账户时长(按月) |
-| State | 客户地区 |
+| Account Length | 客户账户持续时长（月） |
+| State | 客户所在州/地区 |
 | Contract Type | 合同类型 |
-| Account Length | 账户时长 |
-| Monthly Charge | 月费 |
+| Monthly Charge | 客户每月费用 |
 | Local Mins | 本地通话时长 |
 | Intl Mins | 国际通话时长 |
-| Intl Plan | * |
-| Avg Monthly GB Download | * |
-| Unlimited Data Plan | * |
+| Intl Plan | 是否国际套餐 |
+| Avg Monthly GB Download | 每月平均下载流量(单位：GB) |
+| Unlimited Data Plan | 是否无限流量套餐 |
 | Extra Data Charges | 额外数据费用 |
-| Payment Method | * |
-| Monthly Charge | * |
-| 分组消耗 | * |
-| 国际最低类别 | * |
+| Payment Method | 支付方式 |
 | Customer Service Calls | 客服联系次数 |
-| Churn Reason | 流失原因 |
+| Churn Category | 客户流失原因所属的大类 |
+| Churn Reason | 客户具体的流失原因 |
+
+数据处理新增字段
+| 字段 | 说明 |
+|---|---|
+| 分组消耗 | 根据客户的消费/使用量区间对客户进行分组，用于比较不同消费水平客户的流失情况 |
+| 国际最低类别 | 根据客户国际通话使用量划分的类别，用于分析不同国际通话使用水平与客户流失之间的关系 |
 
 ## 4. 数据处理
 
